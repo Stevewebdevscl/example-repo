@@ -1,2 +1,5 @@
-# Exmple Repository
-This is a sampe rep, hello world!
+# Example Repository
+This is a sample rep, hello coders!
+
+This is a second change. 
+
